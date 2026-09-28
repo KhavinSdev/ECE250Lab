@@ -1,0 +1,8 @@
+PRINT_P1
+LOAD_P1 lab1_canada.csv
+PRINT_P1
+UPDATE_P1 1991 2
+PRINT_P1
+LOAD_P1 lab1_canada.csv
+PRINT_P1
+EXIT

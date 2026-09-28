@@ -1,0 +1,8 @@
+LOAD_P1 lab1_canada.csv
+MEAN_P1
+LOAD_P1
+ADD_P1 1 1
+MEAN_P1
+ADD_P1 2 3
+MEAN_P1
+EXIT

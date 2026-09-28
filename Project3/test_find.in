@@ -1,0 +1,79 @@
+LOAD_P3
+BUILD_P3 EG.CFT.ACCS.UR.ZS
+DELETE_P3 Afghanistan
+DELETE_P3 Albania
+DELETE_P3 Algeria
+DELETE_P3 Andorra
+DELETE_P3 Angola
+DELETE_P3 Antigua and Barbuda
+DELETE_P3 Argentina
+DELETE_P3 Armeniaclea
+DELETE_P3 Australia
+DELETE_P3 Austria
+DELETE_P3 Azerbaijan
+DELETE_P3 Bahamas. The
+DELETE_P3 Bahrain
+DELETE_P3 Bangladesh
+DELETE_P3 Barbados
+DELETE_P3 Belarus
+DELETE_P3 Belgium
+DELETE_P3 Belize
+DELETE_P3 Benin
+DELETE_P3 Bermuda
+DELETE_P3 Bhutan
+DELETE_P3 Bolivia
+DELETE_P3 Bosnia and Herzegovina
+DELETE_P3 Botswana
+DELETE_P3 Brazil
+DELETE_P3 British Virgin Islands
+DELETE_P3 Brunei Darussalam
+DELETE_P3 Tunisia
+DELETE_P3 Turkiye
+DELETE_P3 Turkmenistan
+DELETE_P3 Turks and Caicos Islands
+DELETE_P3 Tuvalu
+DELETE_P3 Uganda
+DELETE_P3 Ukraine
+DELETE_P3 United Arab Emirates
+DELETE_P3 United Kingdom
+DELETE_P3 United States
+DELETE_P3 Uruguay
+DELETE_P3 Uzbekistan
+DELETE_P3 Vanuatu
+DELETE_P3 Venezuela. RB
+DELETE_P3 Viet Nam
+DELETE_P3 Virgin Islands (U.S.)
+DELETE_P3 West Bank and Gaza
+DELETE_P3 Yemen. Rep.
+DELETE_P3 Zambia
+DELETE_P3 Zimbabwe
+DELETE_P3 Africa Eastern and Southern
+DELETE_P3 Africa Western and Central
+DELETE_P3 Arab World
+DELETE_P3 Caribbean small states
+DELETE_P3 Central Europe and the Baltics
+DELETE_P3 Early-demographic dividend
+DELETE_P3 East Asia & Pacific
+DELETE_P3 East Asia & Pacific (excluding high income)
+DELETE_P3 East Asia & Pacific (IDA & IBRD countries)
+DELETE_P3 Euro area
+DELETE_P3 Europe & Central Asia
+DELETE_P3 Europe & Central Asia (excluding high income)
+DELETE_P3 Europe & Central Asia (IDA & IBRD countries)
+DELETE_P3 European Union
+DELETE_P3 Fragile and conflict affected situations
+DELETE_P3 Heavily indebted poor countries (HIPC)
+DELETE_P3 High income
+DELETE_P3 IBRD only
+DELETE_P3 IDA & IBRD total
+DELETE_P3 IDA blend
+DELETE_P3 IDA only
+DELETE_P3 IDA total
+DELETE_P3 Pre-demographic dividend
+DELETE_P3 Low income
+DELETE_P3 Sub-Saharan Africa (excluding high income)
+DELETE_P3 Sub-Saharan Africa
+DELETE_P3 Sub-Saharan Africa (IDA & IBRD countries)
+DELETE_P3 Least developed countries: UN classification
+FIND_P3 50 less
+EXIT
